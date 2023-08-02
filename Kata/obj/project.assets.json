@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kitli\\source\\repos\\Kata\\Kata\\Kata.csproj",
+      "projectUniqueName": "C:\\Repos\\Kata\\Kata\\Kata.csproj",
       "projectName": "Kata",
-      "projectPath": "C:\\Users\\kitli\\source\\repos\\Kata\\Kata\\Kata.csproj",
+      "projectPath": "C:\\Repos\\Kata\\Kata\\Kata.csproj",
       "packagesPath": "C:\\Users\\kitli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kitli\\source\\repos\\Kata\\Kata\\obj\\",
+      "outputPath": "C:\\Repos\\Kata\\Kata\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
