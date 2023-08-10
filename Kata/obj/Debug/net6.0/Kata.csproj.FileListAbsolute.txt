@@ -1,0 +1,5 @@
+C:\Repos\Kata\Kata\obj\Debug\net6.0\Kata.csproj.AssemblyReference.cache
+C:\Repos\Kata\Kata\obj\Debug\net6.0\Kata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Kata\Kata\obj\Debug\net6.0\Kata.AssemblyInfoInputs.cache
+C:\Repos\Kata\Kata\obj\Debug\net6.0\Kata.AssemblyInfo.cs
+C:\Repos\Kata\Kata\obj\Debug\net6.0\Kata.csproj.CoreCompileInputs.cache
