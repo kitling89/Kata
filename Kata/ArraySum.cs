@@ -12,5 +12,7 @@ namespace Kata
         {
             return array.Sum();
         }
+
+        //this is an extra line
     }
 }
