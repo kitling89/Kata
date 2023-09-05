@@ -14,7 +14,7 @@ public class RankingSystem
         //completing activity ranked same as user worth 3 points
         //completing activity ranked one lower worth 1 point
         //ignore activities 2 or more ranks lower
-
+ 
         public void incProgress(int actRank)
         {
             //check if rank is 8
